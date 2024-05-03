@@ -13,6 +13,7 @@
 #!include "heroes/venture/excavator.opy"
 #!include "heroes/venture/tectonic_shock.opy"
 #!include "heroes/venture/burrow.opy"
+#!include "heroes/venture/drill_dash.opy"
 
 
 rule "[venture/init.opy]: Venture":
